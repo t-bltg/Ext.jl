@@ -1,2 +1,2 @@
 # Ext.jl
-Revise UnicodePlots bug
+Revise UnicodePlots bug reproducer

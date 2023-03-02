@@ -1,0 +1,17 @@
+name = "Ext"
+uuid = "ca546895-01a0-4af8-8fd1-1f677f1f4d8a"
+license = "MIT"
+version = "0.0.1"
+
+[deps]
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+
+[compat]
+Requires = "1"
+julia = "1.6"
+
+[weakdeps]
+FreeType = "b38be410-82b0-50bf-ab77-7b57e271db43"
+
+[extensions]
+FreeTypeExt = "FreeType"
