@@ -3,5 +3,5 @@ module FreeTypeExt
 
   const VALID_FONTPATHS = String[]
 
-  __init__() = println("FreeTypeExt __init__")
+  __init__() = println("  FreeTypeExt __init__")
 end
